@@ -1,10 +1,10 @@
 # openshift
 
-Prerequesit:
+## Prerequesits:
 
 modules python: argparse sys subprocess
 
 
-usage:
+## usage:
 
 novo_proj.py [-h] [--version] {newproject,delproject}
